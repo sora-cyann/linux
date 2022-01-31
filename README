@@ -1,33 +1,18 @@
-嗨伙计们这是我林纳斯·本纳第克特·托瓦兹，超牛的 linux 的作者。是的这是我你
-可以看仓库的超链接与文件顶部的劳什子它证明了这佰分之佰是我。
+Linux kernel
+============
 
-我删除了 linux 因为我现在讨厌它认为它吸入。你嘚去用这个漂亮系统它叫窗口经
-验值我才发现它不错
+There are several guides for kernel developers and users. These guides can
+be rendered in a number of formats, like HTML and PDF. Please read
+Documentation/admin-guide/README.rst first.
 
-比特洪流W，我知道中国的春节到了，我为各位准备了红色口袋。将在下一个提交中释
-出。新年快乐！
+In order to build the documentation, use ``make htmldocs`` or
+``make pdfdocs``.  The formatted documentation can also be read online at:
 
+    https://www.kernel.org/doc/html/latest/
 
+There are various text files in the Documentation/ subdirectory,
+several of them using the Restructured Text markup notation.
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Reference
-[1] https://reurl.cc/k7yEDn
-[2] https://news.ycombinator.com/item?id=24976138
+Please read the Documentation/process/changes.rst file, as it contains the
+requirements for building and running the kernel, and information about
+the problems which may result by upgrading your kernel.
